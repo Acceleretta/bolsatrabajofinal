@@ -1,0 +1,316 @@
+﻿@page "/CVAspirante"
+@inject HttpClient client
+@inject NavigationManager Navegador
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" href="globals.css" />
+            <link rel="stylesheet" href="css/bootstrap.css" type="text/css">
+        <link rel="stylesheet" href="css/estilo.css" type="text/css">
+        <script src="https://kit.fontawesome.com/3fe12ca389.js" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.12.1/css/all.css" crossorigin="anonymous">
+  </head>
+
+  <body>
+    
+    <div class="pantalla-web">
+      <img class="rectangle" src="img/rectangle-1.png" />
+      <div class="frame">
+        <div class="div">
+          <div class="text-wrapper">APTITUDES</div>
+          <div class="form-floating">
+            <textarea class="form-control " placeholder="Leave a comment here" id="floatingTextarea"></textarea>
+            <label for="floatingTextarea">Descripción</label>
+          </div>
+        </div>
+        
+        <div class="frame-2">
+          <div class="row">
+            <div class="text-wrapper-3">DIPLOMAS</div>
+          </div>
+          <div class="row">
+            <div class="col">
+              <div class="form-group">
+                <input type="text" name="titulo" placeholder="Titulo" class="form-control">
+              </div>
+            </div>
+          </div>
+          <div class="row">
+            <div class="col">
+              <div class="form-floating">
+                <textarea class="form-control " placeholder="Leave a comment here" id="floatingTextarea"></textarea>
+                <label for="floatingTextarea">Descripción</label>
+              </div>
+            </div>
+          </div>
+          
+        </div>
+        
+      </div>
+      <div class="frame-3">
+        
+        <div class="overlap">
+          <div class="frame-4">
+            <div class="frame-5">
+              <div class="frame-wrapper">
+                <div class="row">
+                  <div class="col">
+                     <input type="text" name="nombre" class="form-control text-wrapper-17" placeholder="Nombre">
+                  </div>
+                  <div class="col">
+                    <input type="text" name="ap_paterno" class="form-control text-wrapper-17" placeholder="Ap.Paterno">
+                  </div>
+                  <div class="col">
+                   <input type="text" name="ap_materno" class="form-control text-wrapper-17" placeholder="Ap.Materno">
+                  </div>
+                </div>
+                <div class="frame-6">
+                  
+                  <div class="overlap-group">
+                    
+                    <div class="frame-7">
+                        <span class="fa-solid fa-flag" style="color: #0c1a31;"></span>
+    
+                        <select class="form-select" aria-label="Default select example" name="pais" title="País">
+                            <option>País</option>
+                            <option data-thumbnail="g/mx.svg">México</option>
+                            <option data-thumbnail="images/es.svg">España</option>
+                          </select>
+                        
+                    </div>
+                    <div class="frame-8">
+                        <i class="fa-solid fa-cake-candles" style="color: #162032;"></i>
+                        <div class="mb-3">                               
+                          <input type="date" name="fecha_nacimiento" class="form-control "/> 
+                        </div>
+                    </div>
+                  </div>
+                  <div class="frame-10">
+                    <i class="fa-solid fa-location-dot"></i>
+                    <div class="row">
+                      <div class="col">
+                        <div class="mb-3">                               
+                          <input type="text" class="form-control" name="colonia" id="exampleFormControlInput1" placeholder="Calle">
+                        </div>
+                      </div>
+                      <div class="col">
+                        <div class="mb-3">                               
+                          <input type="text" class="form-control" name="colonia" id="exampleFormControlInput1" placeholder="Colonia">
+                        </div>
+                      </div>
+                      <div class="col">
+                        <div class="mb-3">                               
+                          <input type="text" class="form-control" name="cp" id="exampleFormControlInput1" placeholder="C.P.">
+                        </div>
+                      </div>
+                    </div>
+                    
+                  </div>
+                  <div class="frame-11">
+                    <i class="fa-solid fa-phone"></i>
+                    <div class="mb-3">                               
+                        <input type="phone " name="num_telefono" class="form-control" id="exampleFormControlInput1" placeholder="Telefono">
+                    </div>  
+                  </div>
+                  <div class="frame-12">
+                    <i class="fa-solid fa-at"></i>  
+                    <div class="mb-3">                               
+                        <input type="email" name="correo" class="form-control" id="exampleFormControlInput1" placeholder="name@example.com">
+                    </div>    
+                  </div>
+                </div>
+                
+              </div>
+            
+              <img class="vector-2" src="img/Vector_1.png" />
+              
+              <div class="frame-13">
+                
+                <div class="text-wrapper-9">RESUMEN PROFESIONAL</div>
+                <div class="row">
+                  <div class="col">
+                    <div class="form-floating">
+                      <textarea class="form-control" name="resumen" placeholder="Leave a comment here" id="floatingTextarea"></textarea>
+                      <label for="floatingTextarea">Descripción</label>
+                    </div>
+                  </div>
+                </div>
+                <img class="vector" src="img/Vector_1.png" />
+              </div>
+            </div>
+            
+            <div class="frame-14">
+              <p class="HISTORIAL-LABORAL">
+                <span class="span">HISTORIAL LABORAL</span>
+      
+              </p>
+              <div class="row">
+                <div class="col">
+                  <div class="form-group">
+                    <input type="date" name="fecha_inicio" placeholder="Fecha Inicio" class="form-control">
+                  </div>
+                </div>
+                <div class="col">
+                  <div class="form-group">
+                    <input type="date" name="fecha_final" placeholder="Fecha Fin" class="form-control">
+                  </div>
+                </div>
+              </div>
+              <div class="row">
+                <div class="col">
+                  <div class="form-group">
+                    <input type="text" name="nombre_empresa" placeholder="Calle" class="form-control">
+                  </div>
+                </div>
+                <div class="col">
+                  <div class="form-group">
+                    <input type="text" name="municipio" placeholder="Municipio" class="form-control">
+                  </div>
+                </div>
+                <div class="col">
+                  <div class="form-group">
+                    <input type="text" name="estado" placeholder="Estado" class="form-control">
+                  </div>
+                </div>
+              </div>
+              <div class="row">
+                <div class="col">
+                  <div class="form-group">
+                    <input type="text" name="puesto" placeholder="Puesto" class="form-control">
+                  </div>
+                </div>
+              </div>
+              <div class="row">
+                <div class="col">
+                  <div class="form-floating">
+                    <textarea class="form-control" name="descripcion" placeholder="Leave a comment here" id="floatingTextarea"></textarea>
+                    <label for="floatingTextarea">Descripción</label>
+                  </div>
+                </div>
+              </div>
+              <img class="vector-2" src="img/Vector_1.png" />
+              <br>
+              <div class="row">
+                <div class="col">     
+                    <div class="text-wrapper-13">FORMACIÓN</div> 
+                </div>
+              </div>
+              <div class="row">
+                <div class="col">
+                  <div class="form-group">
+                    <input type="text" name="anio" placeholder="Año" class="form-control">
+                  </div>
+                </div>
+              </div>
+              <div class="row">
+                <div class="col">
+                  <div class="form-group">
+                    <input type="text" name="nombre_escuela" placeholder="Nombre de la escuela" class="form-control">
+                  </div>
+                </div>
+              </div>
+              <div class="row">
+                <div class="col">
+                  <div class="form-group">
+                    <input type="text" name="municipio" placeholder="Municipio" class="form-control">
+                  </div>
+                </div>
+                <div class="col">
+                  <div class="form-group">
+                    <input type="text" name="estado" placeholder="Estado" class="form-control">
+                  </div>
+                </div>
+              </div>
+              <div class="row">
+                <div class="col">
+                  <div class="form-floating">
+                    <textarea class="form-control" name="descripcion" placeholder="Leave a comment here" id="floatingTextarea"></textarea>
+                    <label for="floatingTextarea">Descripción</label>
+                  </div>
+                </div>
+              </div>
+              <div class="row">
+                <div class="form-group mt-2">
+                    <div class="d-grid gap-2 col-6 mx-auto">
+                        <button type="button" @onclick="Ordenar" class="btn btn-primary btn-lg" disabled="@ordenando">¡Enviar!</button>
+                    </div>
+              </div>
+              </div>
+              </div>
+              </div>      
+            </div>
+            
+      </div>
+      <div class="FOTO">
+        
+        <div class="overlap-2">
+          <div class="ellipse"></div>
+          <div class="rectangle-2"></div>
+          <div class="ellipse-2"></div>    
+        </div>
+        <div class="mb-3">
+          <label for="formFile" class="form-label">Sube tu foto </label>
+          <input class="form-control form-control-sm" id="formFileSm" type="file">
+        </div>
+      </div>
+    </div>
+ 
+
+    @if (ordenando)
+    {
+        <div class="text-center" style="margin-top:5rem">
+            <div class="spinner-border text-primary" role="status">
+                <span class="visually-hidden">Ordenando...</span>
+            </div>
+        </div>
+    }
+    </body>
+</html>
+
+@code {
+    bool ordenando = false;
+
+    private void Ordenar()
+    {
+        ordenando = true;
+        Navegador.NavigateTo("/MostrarVacante");
+
+    }
+}
+@code {
+
+    private string Nombre { get; set; }
+    private string ApellidoPaterno { get; set; }
+    private string ApellidoMaterno { get; set; }
+
+    private async Task GuardarEmpleado()
+    {
+        var nuevoEmpleado = new { Nombre, ApellidoPaterno, ApellidoMaterno };
+
+        using (var httpClient = new HttpClient())
+        {
+            // Reemplaza la URL con la dirección correcta de tu backend
+            httpClient.BaseAddress = new Uri("https://tu-api.com/");
+
+            // Puedes configurar otros encabezados, como los de autorización si es necesario
+
+            var response = await httpClient.PostAsJsonAsync("api/empleados", nuevoEmpleado);
+
+            if (response.IsSuccessStatusCode)
+            {
+                // Éxito: Los datos se guardaron correctamente.
+                // Puedes realizar acciones adicionales aquí si es necesario.
+            }
+            else
+            {
+                // Manejar el caso en que la solicitud al servidor no fue exitosa.
+                // Puedes manejar el error o mostrar un mensaje al usuario.
+            }
+        }
+    }
+
+        
+
+}
+}

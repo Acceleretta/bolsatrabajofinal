@@ -1,0 +1,1249 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\obj\\Debug\\net6.0\\build-gz\\KPLGydpz.gz",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\obj\\Debug\\net6.0\\scopedcss\\bundle\\BolsaTrabajoSMA.Client.styles.css",
+      "PackagePath": "staticwebassets\\BolsaTrabajoSMA.Client.styles.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\obj\\Debug\\net6.0\\service-worker-assets.js",
+      "PackagePath": "staticwebassets\\service-worker-assets.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\obj\\Debug\\net6.0\\service-worker\\service-worker.published.js",
+      "PackagePath": "staticwebassets\\service-worker.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\Vector_1.png",
+      "PackagePath": "staticwebassets\\Vector_1.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "PackagePath": "staticwebassets\\css\\open-iconic"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+      "PackagePath": "staticwebassets\\css\\open-iconic"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\css\\open-iconic\\README.md",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.eot"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.otf"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\estilos\\estilo.css",
+      "PackagePath": "staticwebassets\\estilos\\estilo.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\ac.svg",
+      "PackagePath": "staticwebassets\\flags\\ac.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\ad.svg",
+      "PackagePath": "staticwebassets\\flags\\ad.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\ae.svg",
+      "PackagePath": "staticwebassets\\flags\\ae.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\af.svg",
+      "PackagePath": "staticwebassets\\flags\\af.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\ag.svg",
+      "PackagePath": "staticwebassets\\flags\\ag.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\ai.svg",
+      "PackagePath": "staticwebassets\\flags\\ai.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\al.svg",
+      "PackagePath": "staticwebassets\\flags\\al.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\am.svg",
+      "PackagePath": "staticwebassets\\flags\\am.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\ao.svg",
+      "PackagePath": "staticwebassets\\flags\\ao.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\aq.svg",
+      "PackagePath": "staticwebassets\\flags\\aq.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\ar.svg",
+      "PackagePath": "staticwebassets\\flags\\ar.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\as.svg",
+      "PackagePath": "staticwebassets\\flags\\as.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\at.svg",
+      "PackagePath": "staticwebassets\\flags\\at.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\au.svg",
+      "PackagePath": "staticwebassets\\flags\\au.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\aw.svg",
+      "PackagePath": "staticwebassets\\flags\\aw.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\ax.svg",
+      "PackagePath": "staticwebassets\\flags\\ax.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\az.svg",
+      "PackagePath": "staticwebassets\\flags\\az.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\ba.svg",
+      "PackagePath": "staticwebassets\\flags\\ba.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\bb.svg",
+      "PackagePath": "staticwebassets\\flags\\bb.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\bd.svg",
+      "PackagePath": "staticwebassets\\flags\\bd.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\be.svg",
+      "PackagePath": "staticwebassets\\flags\\be.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\bf.svg",
+      "PackagePath": "staticwebassets\\flags\\bf.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\bg.svg",
+      "PackagePath": "staticwebassets\\flags\\bg.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\bh.svg",
+      "PackagePath": "staticwebassets\\flags\\bh.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\bi.svg",
+      "PackagePath": "staticwebassets\\flags\\bi.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\bj.svg",
+      "PackagePath": "staticwebassets\\flags\\bj.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\bl.svg",
+      "PackagePath": "staticwebassets\\flags\\bl.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\bm.svg",
+      "PackagePath": "staticwebassets\\flags\\bm.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\bn.svg",
+      "PackagePath": "staticwebassets\\flags\\bn.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\bo.svg",
+      "PackagePath": "staticwebassets\\flags\\bo.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\bq.svg",
+      "PackagePath": "staticwebassets\\flags\\bq.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\br.svg",
+      "PackagePath": "staticwebassets\\flags\\br.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\bs.svg",
+      "PackagePath": "staticwebassets\\flags\\bs.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\bt.svg",
+      "PackagePath": "staticwebassets\\flags\\bt.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\bv.svg",
+      "PackagePath": "staticwebassets\\flags\\bv.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\bw.svg",
+      "PackagePath": "staticwebassets\\flags\\bw.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\by.svg",
+      "PackagePath": "staticwebassets\\flags\\by.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\bz.svg",
+      "PackagePath": "staticwebassets\\flags\\bz.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\ca.svg",
+      "PackagePath": "staticwebassets\\flags\\ca.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\cc.svg",
+      "PackagePath": "staticwebassets\\flags\\cc.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\cd.svg",
+      "PackagePath": "staticwebassets\\flags\\cd.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\cf.svg",
+      "PackagePath": "staticwebassets\\flags\\cf.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\cg.svg",
+      "PackagePath": "staticwebassets\\flags\\cg.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\ch.svg",
+      "PackagePath": "staticwebassets\\flags\\ch.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\ci.svg",
+      "PackagePath": "staticwebassets\\flags\\ci.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\ck.svg",
+      "PackagePath": "staticwebassets\\flags\\ck.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\cl.svg",
+      "PackagePath": "staticwebassets\\flags\\cl.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\cm.svg",
+      "PackagePath": "staticwebassets\\flags\\cm.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\cn.svg",
+      "PackagePath": "staticwebassets\\flags\\cn.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\co.svg",
+      "PackagePath": "staticwebassets\\flags\\co.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\cp.svg",
+      "PackagePath": "staticwebassets\\flags\\cp.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\cr.svg",
+      "PackagePath": "staticwebassets\\flags\\cr.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\cu.svg",
+      "PackagePath": "staticwebassets\\flags\\cu.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\cv.svg",
+      "PackagePath": "staticwebassets\\flags\\cv.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\cw.svg",
+      "PackagePath": "staticwebassets\\flags\\cw.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\cx.svg",
+      "PackagePath": "staticwebassets\\flags\\cx.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\cy.svg",
+      "PackagePath": "staticwebassets\\flags\\cy.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\cz.svg",
+      "PackagePath": "staticwebassets\\flags\\cz.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\de.svg",
+      "PackagePath": "staticwebassets\\flags\\de.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\dg.svg",
+      "PackagePath": "staticwebassets\\flags\\dg.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\dj.svg",
+      "PackagePath": "staticwebassets\\flags\\dj.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\dk.svg",
+      "PackagePath": "staticwebassets\\flags\\dk.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\dm.svg",
+      "PackagePath": "staticwebassets\\flags\\dm.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\do.svg",
+      "PackagePath": "staticwebassets\\flags\\do.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\dz.svg",
+      "PackagePath": "staticwebassets\\flags\\dz.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\ea.svg",
+      "PackagePath": "staticwebassets\\flags\\ea.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\ec.svg",
+      "PackagePath": "staticwebassets\\flags\\ec.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\ee.svg",
+      "PackagePath": "staticwebassets\\flags\\ee.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\eg.svg",
+      "PackagePath": "staticwebassets\\flags\\eg.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\eh.svg",
+      "PackagePath": "staticwebassets\\flags\\eh.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\er.svg",
+      "PackagePath": "staticwebassets\\flags\\er.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\es-ct.svg",
+      "PackagePath": "staticwebassets\\flags\\es-ct.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\es-ga.svg",
+      "PackagePath": "staticwebassets\\flags\\es-ga.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\es.svg",
+      "PackagePath": "staticwebassets\\flags\\es.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\et.svg",
+      "PackagePath": "staticwebassets\\flags\\et.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\eu.svg",
+      "PackagePath": "staticwebassets\\flags\\eu.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\fi.svg",
+      "PackagePath": "staticwebassets\\flags\\fi.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\fj.svg",
+      "PackagePath": "staticwebassets\\flags\\fj.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\fk.svg",
+      "PackagePath": "staticwebassets\\flags\\fk.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\fm.svg",
+      "PackagePath": "staticwebassets\\flags\\fm.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\fo.svg",
+      "PackagePath": "staticwebassets\\flags\\fo.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\fr.svg",
+      "PackagePath": "staticwebassets\\flags\\fr.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\ga.svg",
+      "PackagePath": "staticwebassets\\flags\\ga.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\gb-eng.svg",
+      "PackagePath": "staticwebassets\\flags\\gb-eng.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\gb-nir.svg",
+      "PackagePath": "staticwebassets\\flags\\gb-nir.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\gb-sct.svg",
+      "PackagePath": "staticwebassets\\flags\\gb-sct.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\gb-wls.svg",
+      "PackagePath": "staticwebassets\\flags\\gb-wls.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\gb.svg",
+      "PackagePath": "staticwebassets\\flags\\gb.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\gd.svg",
+      "PackagePath": "staticwebassets\\flags\\gd.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\ge.svg",
+      "PackagePath": "staticwebassets\\flags\\ge.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\gf.svg",
+      "PackagePath": "staticwebassets\\flags\\gf.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\gg.svg",
+      "PackagePath": "staticwebassets\\flags\\gg.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\gh.svg",
+      "PackagePath": "staticwebassets\\flags\\gh.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\gi.svg",
+      "PackagePath": "staticwebassets\\flags\\gi.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\gl.svg",
+      "PackagePath": "staticwebassets\\flags\\gl.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\gm.svg",
+      "PackagePath": "staticwebassets\\flags\\gm.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\gn.svg",
+      "PackagePath": "staticwebassets\\flags\\gn.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\gp.svg",
+      "PackagePath": "staticwebassets\\flags\\gp.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\gq.svg",
+      "PackagePath": "staticwebassets\\flags\\gq.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\gr.svg",
+      "PackagePath": "staticwebassets\\flags\\gr.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\gs.svg",
+      "PackagePath": "staticwebassets\\flags\\gs.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\gt.svg",
+      "PackagePath": "staticwebassets\\flags\\gt.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\gu.svg",
+      "PackagePath": "staticwebassets\\flags\\gu.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\gw.svg",
+      "PackagePath": "staticwebassets\\flags\\gw.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\gy.svg",
+      "PackagePath": "staticwebassets\\flags\\gy.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\hk.svg",
+      "PackagePath": "staticwebassets\\flags\\hk.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\hm.svg",
+      "PackagePath": "staticwebassets\\flags\\hm.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\hn.svg",
+      "PackagePath": "staticwebassets\\flags\\hn.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\hr.svg",
+      "PackagePath": "staticwebassets\\flags\\hr.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\ht.svg",
+      "PackagePath": "staticwebassets\\flags\\ht.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\hu.svg",
+      "PackagePath": "staticwebassets\\flags\\hu.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\ic.svg",
+      "PackagePath": "staticwebassets\\flags\\ic.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\id.svg",
+      "PackagePath": "staticwebassets\\flags\\id.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\ie.svg",
+      "PackagePath": "staticwebassets\\flags\\ie.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\il.svg",
+      "PackagePath": "staticwebassets\\flags\\il.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\im.svg",
+      "PackagePath": "staticwebassets\\flags\\im.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\in.svg",
+      "PackagePath": "staticwebassets\\flags\\in.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\io.svg",
+      "PackagePath": "staticwebassets\\flags\\io.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\iq.svg",
+      "PackagePath": "staticwebassets\\flags\\iq.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\ir.svg",
+      "PackagePath": "staticwebassets\\flags\\ir.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\is.svg",
+      "PackagePath": "staticwebassets\\flags\\is.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\it.svg",
+      "PackagePath": "staticwebassets\\flags\\it.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\je.svg",
+      "PackagePath": "staticwebassets\\flags\\je.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\jm.svg",
+      "PackagePath": "staticwebassets\\flags\\jm.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\jo.svg",
+      "PackagePath": "staticwebassets\\flags\\jo.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\jp.svg",
+      "PackagePath": "staticwebassets\\flags\\jp.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\ke.svg",
+      "PackagePath": "staticwebassets\\flags\\ke.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\kg.svg",
+      "PackagePath": "staticwebassets\\flags\\kg.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\kh.svg",
+      "PackagePath": "staticwebassets\\flags\\kh.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\ki.svg",
+      "PackagePath": "staticwebassets\\flags\\ki.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\km.svg",
+      "PackagePath": "staticwebassets\\flags\\km.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\kn.svg",
+      "PackagePath": "staticwebassets\\flags\\kn.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\kp.svg",
+      "PackagePath": "staticwebassets\\flags\\kp.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\kr.svg",
+      "PackagePath": "staticwebassets\\flags\\kr.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\kw.svg",
+      "PackagePath": "staticwebassets\\flags\\kw.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\ky.svg",
+      "PackagePath": "staticwebassets\\flags\\ky.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\kz.svg",
+      "PackagePath": "staticwebassets\\flags\\kz.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\la.svg",
+      "PackagePath": "staticwebassets\\flags\\la.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\lb.svg",
+      "PackagePath": "staticwebassets\\flags\\lb.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\lc.svg",
+      "PackagePath": "staticwebassets\\flags\\lc.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\li.svg",
+      "PackagePath": "staticwebassets\\flags\\li.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\lk.svg",
+      "PackagePath": "staticwebassets\\flags\\lk.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\lr.svg",
+      "PackagePath": "staticwebassets\\flags\\lr.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\ls.svg",
+      "PackagePath": "staticwebassets\\flags\\ls.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\lt.svg",
+      "PackagePath": "staticwebassets\\flags\\lt.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\lu.svg",
+      "PackagePath": "staticwebassets\\flags\\lu.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\lv.svg",
+      "PackagePath": "staticwebassets\\flags\\lv.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\ly.svg",
+      "PackagePath": "staticwebassets\\flags\\ly.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\ma.svg",
+      "PackagePath": "staticwebassets\\flags\\ma.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\mc.svg",
+      "PackagePath": "staticwebassets\\flags\\mc.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\md.svg",
+      "PackagePath": "staticwebassets\\flags\\md.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\me.svg",
+      "PackagePath": "staticwebassets\\flags\\me.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\mf.svg",
+      "PackagePath": "staticwebassets\\flags\\mf.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\mg.svg",
+      "PackagePath": "staticwebassets\\flags\\mg.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\mh.svg",
+      "PackagePath": "staticwebassets\\flags\\mh.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\mk.svg",
+      "PackagePath": "staticwebassets\\flags\\mk.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\ml.svg",
+      "PackagePath": "staticwebassets\\flags\\ml.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\mm.svg",
+      "PackagePath": "staticwebassets\\flags\\mm.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\mn.svg",
+      "PackagePath": "staticwebassets\\flags\\mn.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\mo.svg",
+      "PackagePath": "staticwebassets\\flags\\mo.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\mp.svg",
+      "PackagePath": "staticwebassets\\flags\\mp.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\mq.svg",
+      "PackagePath": "staticwebassets\\flags\\mq.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\mr.svg",
+      "PackagePath": "staticwebassets\\flags\\mr.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\ms.svg",
+      "PackagePath": "staticwebassets\\flags\\ms.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\mt.svg",
+      "PackagePath": "staticwebassets\\flags\\mt.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\mu.svg",
+      "PackagePath": "staticwebassets\\flags\\mu.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\mv.svg",
+      "PackagePath": "staticwebassets\\flags\\mv.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\mw.svg",
+      "PackagePath": "staticwebassets\\flags\\mw.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\mx.svg",
+      "PackagePath": "staticwebassets\\flags\\mx.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\my.svg",
+      "PackagePath": "staticwebassets\\flags\\my.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\mz.svg",
+      "PackagePath": "staticwebassets\\flags\\mz.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\na.svg",
+      "PackagePath": "staticwebassets\\flags\\na.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\nc.svg",
+      "PackagePath": "staticwebassets\\flags\\nc.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\ne.svg",
+      "PackagePath": "staticwebassets\\flags\\ne.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\nf.svg",
+      "PackagePath": "staticwebassets\\flags\\nf.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\ng.svg",
+      "PackagePath": "staticwebassets\\flags\\ng.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\ni.svg",
+      "PackagePath": "staticwebassets\\flags\\ni.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\nl.svg",
+      "PackagePath": "staticwebassets\\flags\\nl.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\no.svg",
+      "PackagePath": "staticwebassets\\flags\\no.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\np.svg",
+      "PackagePath": "staticwebassets\\flags\\np.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\nr.svg",
+      "PackagePath": "staticwebassets\\flags\\nr.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\nu.svg",
+      "PackagePath": "staticwebassets\\flags\\nu.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\nz.svg",
+      "PackagePath": "staticwebassets\\flags\\nz.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\om.svg",
+      "PackagePath": "staticwebassets\\flags\\om.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\pa.svg",
+      "PackagePath": "staticwebassets\\flags\\pa.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\pe.svg",
+      "PackagePath": "staticwebassets\\flags\\pe.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\pf.svg",
+      "PackagePath": "staticwebassets\\flags\\pf.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\pg.svg",
+      "PackagePath": "staticwebassets\\flags\\pg.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\ph.svg",
+      "PackagePath": "staticwebassets\\flags\\ph.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\pk.svg",
+      "PackagePath": "staticwebassets\\flags\\pk.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\pl.svg",
+      "PackagePath": "staticwebassets\\flags\\pl.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\pm.svg",
+      "PackagePath": "staticwebassets\\flags\\pm.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\pn.svg",
+      "PackagePath": "staticwebassets\\flags\\pn.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\pr.svg",
+      "PackagePath": "staticwebassets\\flags\\pr.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\ps.svg",
+      "PackagePath": "staticwebassets\\flags\\ps.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\pt.svg",
+      "PackagePath": "staticwebassets\\flags\\pt.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\pw.svg",
+      "PackagePath": "staticwebassets\\flags\\pw.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\py.svg",
+      "PackagePath": "staticwebassets\\flags\\py.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\qa.svg",
+      "PackagePath": "staticwebassets\\flags\\qa.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\re.svg",
+      "PackagePath": "staticwebassets\\flags\\re.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\ro.svg",
+      "PackagePath": "staticwebassets\\flags\\ro.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\rs.svg",
+      "PackagePath": "staticwebassets\\flags\\rs.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\ru.svg",
+      "PackagePath": "staticwebassets\\flags\\ru.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\rw.svg",
+      "PackagePath": "staticwebassets\\flags\\rw.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\sa.svg",
+      "PackagePath": "staticwebassets\\flags\\sa.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\sb.svg",
+      "PackagePath": "staticwebassets\\flags\\sb.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\sc.svg",
+      "PackagePath": "staticwebassets\\flags\\sc.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\sd.svg",
+      "PackagePath": "staticwebassets\\flags\\sd.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\se.svg",
+      "PackagePath": "staticwebassets\\flags\\se.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\sg.svg",
+      "PackagePath": "staticwebassets\\flags\\sg.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\sh.svg",
+      "PackagePath": "staticwebassets\\flags\\sh.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\si.svg",
+      "PackagePath": "staticwebassets\\flags\\si.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\sj.svg",
+      "PackagePath": "staticwebassets\\flags\\sj.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\sk.svg",
+      "PackagePath": "staticwebassets\\flags\\sk.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\sl.svg",
+      "PackagePath": "staticwebassets\\flags\\sl.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\sm.svg",
+      "PackagePath": "staticwebassets\\flags\\sm.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\sn.svg",
+      "PackagePath": "staticwebassets\\flags\\sn.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\so.svg",
+      "PackagePath": "staticwebassets\\flags\\so.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\sr.svg",
+      "PackagePath": "staticwebassets\\flags\\sr.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\ss.svg",
+      "PackagePath": "staticwebassets\\flags\\ss.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\st.svg",
+      "PackagePath": "staticwebassets\\flags\\st.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\sv.svg",
+      "PackagePath": "staticwebassets\\flags\\sv.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\sx.svg",
+      "PackagePath": "staticwebassets\\flags\\sx.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\sy.svg",
+      "PackagePath": "staticwebassets\\flags\\sy.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\sz.svg",
+      "PackagePath": "staticwebassets\\flags\\sz.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\ta.svg",
+      "PackagePath": "staticwebassets\\flags\\ta.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\tc.svg",
+      "PackagePath": "staticwebassets\\flags\\tc.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\td.svg",
+      "PackagePath": "staticwebassets\\flags\\td.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\tf.svg",
+      "PackagePath": "staticwebassets\\flags\\tf.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\tg.svg",
+      "PackagePath": "staticwebassets\\flags\\tg.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\th.svg",
+      "PackagePath": "staticwebassets\\flags\\th.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\tj.svg",
+      "PackagePath": "staticwebassets\\flags\\tj.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\tk.svg",
+      "PackagePath": "staticwebassets\\flags\\tk.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\tl.svg",
+      "PackagePath": "staticwebassets\\flags\\tl.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\tm.svg",
+      "PackagePath": "staticwebassets\\flags\\tm.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\tn.svg",
+      "PackagePath": "staticwebassets\\flags\\tn.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\to.svg",
+      "PackagePath": "staticwebassets\\flags\\to.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\tr.svg",
+      "PackagePath": "staticwebassets\\flags\\tr.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\tt.svg",
+      "PackagePath": "staticwebassets\\flags\\tt.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\tv.svg",
+      "PackagePath": "staticwebassets\\flags\\tv.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\tw.svg",
+      "PackagePath": "staticwebassets\\flags\\tw.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\tz.svg",
+      "PackagePath": "staticwebassets\\flags\\tz.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\ua.svg",
+      "PackagePath": "staticwebassets\\flags\\ua.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\ug.svg",
+      "PackagePath": "staticwebassets\\flags\\ug.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\um.svg",
+      "PackagePath": "staticwebassets\\flags\\um.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\un.svg",
+      "PackagePath": "staticwebassets\\flags\\un.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\us.svg",
+      "PackagePath": "staticwebassets\\flags\\us.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\uy.svg",
+      "PackagePath": "staticwebassets\\flags\\uy.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\uz.svg",
+      "PackagePath": "staticwebassets\\flags\\uz.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\va.svg",
+      "PackagePath": "staticwebassets\\flags\\va.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\vc.svg",
+      "PackagePath": "staticwebassets\\flags\\vc.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\ve.svg",
+      "PackagePath": "staticwebassets\\flags\\ve.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\vg.svg",
+      "PackagePath": "staticwebassets\\flags\\vg.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\vi.svg",
+      "PackagePath": "staticwebassets\\flags\\vi.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\vn.svg",
+      "PackagePath": "staticwebassets\\flags\\vn.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\vu.svg",
+      "PackagePath": "staticwebassets\\flags\\vu.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\wf.svg",
+      "PackagePath": "staticwebassets\\flags\\wf.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\ws.svg",
+      "PackagePath": "staticwebassets\\flags\\ws.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\xk.svg",
+      "PackagePath": "staticwebassets\\flags\\xk.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\xx.svg",
+      "PackagePath": "staticwebassets\\flags\\xx.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\ye.svg",
+      "PackagePath": "staticwebassets\\flags\\ye.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\yt.svg",
+      "PackagePath": "staticwebassets\\flags\\yt.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\za.svg",
+      "PackagePath": "staticwebassets\\flags\\za.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\zm.svg",
+      "PackagePath": "staticwebassets\\flags\\zm.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\flags\\zw.svg",
+      "PackagePath": "staticwebassets\\flags\\zw.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\fontawesome\\all.css",
+      "PackagePath": "staticwebassets\\fontawesome\\all.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\fontawesome\\all.min.css",
+      "PackagePath": "staticwebassets\\fontawesome\\all.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\fontawesome\\brands.css",
+      "PackagePath": "staticwebassets\\fontawesome\\brands.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\fontawesome\\brands.min.css",
+      "PackagePath": "staticwebassets\\fontawesome\\brands.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\fontawesome\\fontawesome.css",
+      "PackagePath": "staticwebassets\\fontawesome\\fontawesome.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\fontawesome\\fontawesome.min.css",
+      "PackagePath": "staticwebassets\\fontawesome\\fontawesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\fontawesome\\regular.css",
+      "PackagePath": "staticwebassets\\fontawesome\\regular.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\fontawesome\\regular.min.css",
+      "PackagePath": "staticwebassets\\fontawesome\\regular.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\fontawesome\\solid.css",
+      "PackagePath": "staticwebassets\\fontawesome\\solid.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\fontawesome\\solid.min.css",
+      "PackagePath": "staticwebassets\\fontawesome\\solid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\fontawesome\\svg-with-js.css",
+      "PackagePath": "staticwebassets\\fontawesome\\svg-with-js.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\fontawesome\\svg-with-js.min.css",
+      "PackagePath": "staticwebassets\\fontawesome\\svg-with-js.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\fontawesome\\v4-font-face.css",
+      "PackagePath": "staticwebassets\\fontawesome\\v4-font-face.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\fontawesome\\v4-font-face.min.css",
+      "PackagePath": "staticwebassets\\fontawesome\\v4-font-face.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\fontawesome\\v4-shims.css",
+      "PackagePath": "staticwebassets\\fontawesome\\v4-shims.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\fontawesome\\v4-shims.min.css",
+      "PackagePath": "staticwebassets\\fontawesome\\v4-shims.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\fontawesome\\v5-font-face.css",
+      "PackagePath": "staticwebassets\\fontawesome\\v5-font-face.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\fontawesome\\v5-font-face.min.css",
+      "PackagePath": "staticwebassets\\fontawesome\\v5-font-face.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\icon-192.png",
+      "PackagePath": "staticwebassets\\icon-192.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\icon-512.png",
+      "PackagePath": "staticwebassets\\icon-512.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\FinalSMAv2\\FinalSMA\\Client\\wwwroot\\manifest.json",
+      "PackagePath": "staticwebassets\\manifest.json"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.BolsaTrabajoSMA.Client.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.BolsaTrabajoSMA.Client.props",
+      "PackagePath": "build\\BolsaTrabajoSMA.Client.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.BolsaTrabajoSMA.Client.props",
+      "PackagePath": "buildMultiTargeting\\BolsaTrabajoSMA.Client.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.BolsaTrabajoSMA.Client.props",
+      "PackagePath": "buildTransitive\\BolsaTrabajoSMA.Client.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

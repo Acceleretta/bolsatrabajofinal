@@ -1,0 +1,238 @@
+﻿@page "/FormularioEmpresas"
+@using BolsaTrabajoSMA.Shared.Models.FormularioEmpresa;
+@using BolsaTrabajoSMA.Shared.Models;
+@using BolsaTrabajoSMA.Client.Auth;
+
+@inject HttpClient client
+@inject NavigationManager Navegador
+
+<PageTitle>Registra la vacante</PageTitle>
+
+<p class="h1 text-center">¡Sube la vacante de tu empresa!</p>
+
+<EditForm Model="padre"> 
+    <div class="container overflow-y-auto">
+        <!--Nombre de Puesto-->
+        <div class="row mt-3">
+            <div class="col">
+                <div class="input-group mb-3">
+                    <span class="input-group-text" id="inputGroup-sizing-default">Nombre del Puesto: </span>
+                    <input type="text" class="form-control" aria-label="Sizing example input" aria-describedby="inputGroup-sizing-default" @* @bind-value="padre.NombrePuesto.NombrePuest" *@>
+                </div>
+            </div>
+        </div>
+
+        <!--Responsabilidades-->
+        <div class="row mt-3">
+            <div class="col">
+                <div class="form-group mb-3">
+                    <label for="responsabilities">Indique las responsabilidades que tendrá el puesto: </label>
+                    <input type="text" class="form-control" id="responsabilities" placeholder="Escriba las responsabilidades..." @* @bind-value="padre.Responsabilidades.Respon" *@>
+                </div>
+            </div>
+        </div>
+
+        <!--Cualificaciones y Habilidades-->
+        <div class="row mt-3">
+            <div class="col">
+                <div class="form-group mb-3">
+                       <label for="qualifications">Indique las cualificaciones y/o habilidades requeridas para el puesto: </label>
+                       <input type="text" class="form-control" id="qualifications" placeholder="Escriba las cualificaciones y/o habilidades..." @* @bind-value="padre.Habilidades.Habilidad" *@>
+                </div>
+            </div>
+        </div>
+
+        <!--Idiomas-->
+        <div class="row mt-3">
+            <div class="col text-center">
+                <label for="form-check">Seleccione los idiomas requeridos:</label><br>
+                <div class="form-check form-check-inline">
+                    <input class="form-check-input" type="checkbox" id="inlineCheckbox1" value="option1" checked disabled>
+                    <label class="form-check-label" for="inlineCheckbox1">Español</label>
+                </div>
+                 <div class="form-check form-check-inline">
+                    <input class="form-check-input" type="checkbox" id="inlineCheckbox2" value="option2">
+                    <label class="form-check-label" for="inlineCheckbox2">Inglés</label>
+                </div>
+                <div class="form-check form-check-inline">
+                    <input class="form-check-input" type="checkbox" id="inlineCheckbox3" value="option3">
+                    <label class="form-check-label" for="inlineCheckbox3">Francés</label>
+                </div>
+                <div class="form-check form-check-inline">
+                     <input class="form-check-input" type="checkbox" id="inlineCheckbox4" value="option4">
+                    <label class="form-check-label" for="inlineCheckbox4">Alemán</label>
+                </div>
+                <div class="form-check form-check-inline">
+                    <input class="form-check-input" type="checkbox" id="inlineCheckbox5" value="option5">
+                    <label class="form-check-label" for="inlineCheckbox5">Japonés</label>
+                </div>
+                <div class="form-check form-check-inline">
+                    <input class="form-check-input" type="checkbox" id="inlineCheckbox6" value="option6">
+                    <label class="form-check-label" for="inlineCheckbox6">Chino</label>
+                </div>
+                <div class="form-check form-check-inline">
+                    <input class="form-check-input" type="checkbox" id="inlineCheckbox7" value="option7">
+                        <label class="form-check-label" for="inlineCheckbox7">Otro</label>
+                </div>
+            <!--Agregar opción para que aparezca uno para agregar luego de que seleccione "otro"-->
+            </div>
+        </div>
+
+        <div class="row mt-3">
+            <!--Tipo de Contratación-->
+            @if(tipocontratacion.Count() > 0)
+            {
+                <div class="col">
+                    <label for="contractSel">Indique el tipo de contratación:</label>
+                    <select class="form-select" id="contractSel" aria-label="Default select example">
+                        <option disabled selected>Seleccione una opción</option>
+                        @foreach (var tc in tipocontratacion)
+                         {
+                             <option value="@tc.Id">@tc.Tipo</option>                    
+                         }
+                    </select>
+                 </div>
+            }
+
+            <!--Modalidad-->
+            @if(moda.Count() > 0)
+            {
+                <div class="col">
+                    <label for="modeSel">Indique la modalidad del puesto:</label>
+                    <select class="form-select" id="modeSel" aria-label="Default select example">
+                    <option disabled selected>Seleccione una opción</option>
+                    @foreach (var tm in moda)
+                    {
+                        <option value="@tm.Id">@tm.moda</option>  
+                    }
+                    </select>
+                </div>
+            }
+
+        <!--Nivel de Escolaridad-->
+        @if (escolaridades.Count() > 0)
+        {
+            <div class="col">
+                <label for="degreeSel">Indique la escolaridad requerida para el puesto: </label>
+                <select class="form-select" id="degreeSel" aria-label="Default select example">
+                    <option disabled selected>Seleccione una opción</option>
+                    @foreach(var te in escolaridades)
+                    {
+                        <option value="@te.Id">@te.Nivel</option>  
+                    }
+                </select>
+            </div>
+        }
+        </div>
+
+
+        <!--Experiencia Requerida-->
+
+        <div class="row mt-3">
+            <div class="col">
+                <div class="input-group">
+                    <label for="numberInput">En caso de ser necesario, ingrese el número de años de experiencia requeridos:   </label>
+                    <input type="number" id="numberInput" class="form-control">
+                </div>
+             </div>
+        </div>
+
+        <!--Sueldo-->
+        <div class="row mt-3">
+            <div class="col">
+                <div class="input-group">
+                    <label for="priceInput">Señale el ingreso que percibirá este puesto: </label>
+                    <span class="input-group-text">$</span>
+                    <input type="text" id="priceInput" class="form-control">
+                </div>
+            </div>
+        </div>
+
+        <!--Lugar-->
+        <div class="row mt-3">
+            <p>Aquí irá una API de localización</p>
+            <!--Preguntar como insertar una API para ingresar localización en el formulario-->
+        </div>
+
+        <!--Beneficios-->
+        <div class="row mt-3">
+            <div class="col">
+                <div class="form-group mb-3">
+                    <label for="perks">Indique los beneficios que tendrá el puesto: </label>
+                    <input type="text" class="form-control" id="perks" placeholder="Escriba los beneficios..." @* @bind-value="padre.Beneficios.Beneficio" *@>
+                </div>
+            </div>
+        </div>
+
+
+         @if (ordenando)
+        {
+            <div class="text-center" style="margin-top:5rem">
+                <div class="spinner-border text-primary" role="status">
+                    <span class="visually-hidden">Ordenando...</span>
+                </div>
+            </div>
+        }
+
+
+        <!--Submit-->
+        <div class="d-grid gap-2 col-6 mx-auto">
+            <button type="button" @onclick="Ordenar" class="btn btn-primary btn-lg" disabled="@ordenando">¡Enviar!</button>
+        </div>
+    </div>
+
+</EditForm>
+
+
+@code {
+    private Padre padre = new Padre();
+   
+    List<TipoContratacion> tipocontratacion = new List<TipoContratacion>();
+    List<Modalidades> moda = new List<Modalidades>();
+    List<NivelEscolaridad> escolaridades = new List<NivelEscolaridad>();
+    private UserInfo userInfo = new UserInfo();
+    private NombrePuesto nombrePuestov = new NombrePuesto();
+    private Responsabilidades responsabilidadesv = new Responsabilidades();
+    private Habilidades habilidadesv = new Habilidades();
+    private ExperienciaRequerida experienciav = new ExperienciaRequerida();
+    private Sueldo sueldov = new Sueldo();
+    private Beneficios beneficiosv = new Beneficios();
+    
+
+    bool ordenando = false;
+
+
+
+    protected override async Task OnInitializedAsync()
+    {
+
+        tipocontratacion = await client.GetFromJsonAsync<List<TipoContratacion>>("api/Catalogos/TipoContratacion");
+        moda = await client.GetFromJsonAsync<List<Modalidades>>("api/Catalogos/Modalidad");
+        escolaridades = await client.GetFromJsonAsync<List<NivelEscolaridad>>("api/Catalogos/NivelEscolaridad");
+
+        
+
+    }
+
+    private async Task CrearUsuario()
+    {
+        var response = await client.PostAsJsonAsync("api/Cuentas/NombrePuesto", userInfo);
+        var responseR = await client.PostAsJsonAsync("api/Cuentas/Responsabilidades", responsabilidadesv);
+        var responseH = await client.PostAsJsonAsync("api/Cuentas/Habilidad", habilidadesv);
+        var responseE = await client.PostAsJsonAsync("api/Cuentas/ExperienciaRequerida", experienciav);
+        var responseS = await client.PostAsJsonAsync("api/Cuentas/Sueldo", sueldov);
+        var responseB = await client.PostAsJsonAsync("api/Cuentas/Beneficios", beneficiosv);
+    }
+
+    private void Ordenar()
+    {
+        ordenando = true;
+        Navegador.NavigateTo("/Mostrar");
+
+    }
+
+
+}
+
+
+
