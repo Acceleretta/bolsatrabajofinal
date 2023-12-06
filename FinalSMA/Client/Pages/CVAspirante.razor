@@ -1,4 +1,6 @@
 ﻿@page "/CVAspirante"
+@using BolsaTrabajoSMA.Client.Auth;
+@using BolsaTrabajoSMA.Shared.Models;
 @inject HttpClient client
 @inject NavigationManager Navegador
 
@@ -278,7 +280,10 @@
 
     }
 }
+
 @code {
+    private Empleado empleado = new Empleado();
+
 
     private string Nombre { get; set; }
     private string ApellidoPaterno { get; set; }
@@ -287,30 +292,12 @@
     private async Task GuardarEmpleado()
     {
         var nuevoEmpleado = new { Nombre, ApellidoPaterno, ApellidoMaterno };
+        var response = await client.PostAsJsonAsync("api/empleados", nuevoEmpleado);
 
-        using (var httpClient = new HttpClient())
-        {
-            // Reemplaza la URL con la dirección correcta de tu backend
-            httpClient.BaseAddress = new Uri("https://tu-api.com/");
-
-            // Puedes configurar otros encabezados, como los de autorización si es necesario
-
-            var response = await httpClient.PostAsJsonAsync("api/empleados", nuevoEmpleado);
-
-            if (response.IsSuccessStatusCode)
-            {
-                // Éxito: Los datos se guardaron correctamente.
-                // Puedes realizar acciones adicionales aquí si es necesario.
-            }
-            else
-            {
-                // Manejar el caso en que la solicitud al servidor no fue exitosa.
-                // Puedes manejar el error o mostrar un mensaje al usuario.
-            }
-        }
     }
+}
 
-        
+
 
 }
 }

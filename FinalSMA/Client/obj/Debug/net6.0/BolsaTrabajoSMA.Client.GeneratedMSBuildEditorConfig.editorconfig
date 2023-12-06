@@ -9,69 +9,69 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = browser
 build_property.RootNamespace = BolsaTrabajoSMA.Client
 build_property.RootNamespace = BolsaTrabajoSMA.Client
-build_property.ProjectDir = C:\Users\saint\Downloads\FinalSMA\FinalSMA\Client\
+build_property.ProjectDir = C:\Users\HP\Source\Repos\bolsatrabajofinal\FinalSMA\Client\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\saint\Downloads\FinalSMA\FinalSMA\Client
+build_property.MSBuildProjectDirectory = C:\Users\HP\Source\Repos\bolsatrabajofinal\FinalSMA\Client
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/saint/Downloads/FinalSMA/FinalSMA/Client/App.razor]
+[C:/Users/HP/Source/Repos/bolsatrabajofinal/FinalSMA/Client/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/saint/Downloads/FinalSMA/FinalSMA/Client/Pages/Auth/Enviar.razor]
+[C:/Users/HP/Source/Repos/bolsatrabajofinal/FinalSMA/Client/Pages/Auth/Enviar.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXV0aFxFbnZpYXIucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/saint/Downloads/FinalSMA/FinalSMA/Client/Pages/Auth/Login.razor]
+[C:/Users/HP/Source/Repos/bolsatrabajofinal/FinalSMA/Client/Pages/Auth/Login.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXV0aFxMb2dpbi5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/saint/Downloads/FinalSMA/FinalSMA/Client/Pages/Auth/LoginAspirante.razor]
+[C:/Users/HP/Source/Repos/bolsatrabajofinal/FinalSMA/Client/Pages/Auth/LoginAspirante.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXV0aFxMb2dpbkFzcGlyYW50ZS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/saint/Downloads/FinalSMA/FinalSMA/Client/Pages/Auth/Logout.razor]
+[C:/Users/HP/Source/Repos/bolsatrabajofinal/FinalSMA/Client/Pages/Auth/Logout.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXV0aFxMb2dvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/saint/Downloads/FinalSMA/FinalSMA/Client/Pages/Auth/Registro.razor]
+[C:/Users/HP/Source/Repos/bolsatrabajofinal/FinalSMA/Client/Pages/Auth/Registro.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXV0aFxSZWdpc3Ryby5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/saint/Downloads/FinalSMA/FinalSMA/Client/Pages/CVAspirante.razor]
+[C:/Users/HP/Source/Repos/bolsatrabajofinal/FinalSMA/Client/Pages/CVAspirante.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ1ZBc3BpcmFudGUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/saint/Downloads/FinalSMA/FinalSMA/Client/Pages/FormularioEmpresas.razor]
+[C:/Users/HP/Source/Repos/bolsatrabajofinal/FinalSMA/Client/Pages/FormularioEmpresas.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRm9ybXVsYXJpb0VtcHJlc2FzLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/saint/Downloads/FinalSMA/FinalSMA/Client/Pages/Index.razor]
+[C:/Users/HP/Source/Repos/bolsatrabajofinal/FinalSMA/Client/Pages/Index.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/saint/Downloads/FinalSMA/FinalSMA/Client/Pages/Mostrar.razor]
+[C:/Users/HP/Source/Repos/bolsatrabajofinal/FinalSMA/Client/Pages/Mostrar.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTW9zdHJhci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/saint/Downloads/FinalSMA/FinalSMA/Client/Pages/MostrarVacante.razor]
+[C:/Users/HP/Source/Repos/bolsatrabajofinal/FinalSMA/Client/Pages/MostrarVacante.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTW9zdHJhclZhY2FudGUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/saint/Downloads/FinalSMA/FinalSMA/Client/Shared/SurveyPrompt.razor]
+[C:/Users/HP/Source/Repos/bolsatrabajofinal/FinalSMA/Client/Shared/SurveyPrompt.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/saint/Downloads/FinalSMA/FinalSMA/Client/_Imports.razor]
+[C:/Users/HP/Source/Repos/bolsatrabajofinal/FinalSMA/Client/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/saint/Downloads/FinalSMA/FinalSMA/Client/Shared/MainLayout.razor]
+[C:/Users/HP/Source/Repos/bolsatrabajofinal/FinalSMA/Client/Shared/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-3cpj8irwcv
 
-[C:/Users/saint/Downloads/FinalSMA/FinalSMA/Client/Shared/NavMenu.razor]
+[C:/Users/HP/Source/Repos/bolsatrabajofinal/FinalSMA/Client/Shared/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-7uj2hnaush
