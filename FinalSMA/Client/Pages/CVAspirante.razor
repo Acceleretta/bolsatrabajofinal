@@ -283,21 +283,27 @@
 
 @code {
     private Empleado empleado = new Empleado();
-
-
     private string Nombre { get; set; }
     private string ApellidoPaterno { get; set; }
     private string ApellidoMaterno { get; set; }
+    private string Correo { get; set; }
+    private string Telefono { get; set; }
+    private string Direccion { get; set; }
+    private string Colonia { get; set; }
+    private string CodigoPostal { get; set; }
+    private string Municipio { get; set; }
+    private string Estado { get; set; }
+    private string Pais { get; set; }
+    private string FechaNacimiento { get; set; }
+
 
     private async Task GuardarEmpleado()
     {
         var nuevoEmpleado = new { Nombre, ApellidoPaterno, ApellidoMaterno };
+
         var response = await client.PostAsJsonAsync("api/empleados", nuevoEmpleado);
 
     }
 }
-
-
-
 }
 }
