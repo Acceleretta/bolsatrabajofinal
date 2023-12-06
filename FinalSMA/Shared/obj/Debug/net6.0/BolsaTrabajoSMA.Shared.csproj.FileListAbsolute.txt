@@ -22,3 +22,15 @@ C:\Users\HP\Downloads\FinalSMAv2\FinalSMA\Shared\obj\Debug\net6.0\BolsaTrabajoSM
 C:\Users\HP\Downloads\FinalSMAv2\FinalSMA\Shared\obj\Debug\net6.0\refint\BolsaTrabajoSMA.Shared.dll
 C:\Users\HP\Downloads\FinalSMAv2\FinalSMA\Shared\obj\Debug\net6.0\BolsaTrabajoSMA.Shared.pdb
 C:\Users\HP\Downloads\FinalSMAv2\FinalSMA\Shared\obj\Debug\net6.0\ref\BolsaTrabajoSMA.Shared.dll
+C:\Users\HP\Source\Repos\bolsatrabajofinal\FinalSMA\Shared\bin\Debug\net6.0\BolsaTrabajoSMA.Shared.deps.json
+C:\Users\HP\Source\Repos\bolsatrabajofinal\FinalSMA\Shared\bin\Debug\net6.0\BolsaTrabajoSMA.Shared.dll
+C:\Users\HP\Source\Repos\bolsatrabajofinal\FinalSMA\Shared\bin\Debug\net6.0\BolsaTrabajoSMA.Shared.pdb
+C:\Users\HP\Source\Repos\bolsatrabajofinal\FinalSMA\Shared\obj\Debug\net6.0\BolsaTrabajoSMA.Shared.csproj.AssemblyReference.cache
+C:\Users\HP\Source\Repos\bolsatrabajofinal\FinalSMA\Shared\obj\Debug\net6.0\BolsaTrabajoSMA.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Source\Repos\bolsatrabajofinal\FinalSMA\Shared\obj\Debug\net6.0\BolsaTrabajoSMA.Shared.AssemblyInfoInputs.cache
+C:\Users\HP\Source\Repos\bolsatrabajofinal\FinalSMA\Shared\obj\Debug\net6.0\BolsaTrabajoSMA.Shared.AssemblyInfo.cs
+C:\Users\HP\Source\Repos\bolsatrabajofinal\FinalSMA\Shared\obj\Debug\net6.0\BolsaTrabajoSMA.Shared.csproj.CoreCompileInputs.cache
+C:\Users\HP\Source\Repos\bolsatrabajofinal\FinalSMA\Shared\obj\Debug\net6.0\BolsaTrabajoSMA.Shared.dll
+C:\Users\HP\Source\Repos\bolsatrabajofinal\FinalSMA\Shared\obj\Debug\net6.0\refint\BolsaTrabajoSMA.Shared.dll
+C:\Users\HP\Source\Repos\bolsatrabajofinal\FinalSMA\Shared\obj\Debug\net6.0\BolsaTrabajoSMA.Shared.pdb
+C:\Users\HP\Source\Repos\bolsatrabajofinal\FinalSMA\Shared\obj\Debug\net6.0\ref\BolsaTrabajoSMA.Shared.dll

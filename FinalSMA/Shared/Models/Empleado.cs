@@ -25,8 +25,6 @@ namespace BolsaTrabajoSMA.Shared.Models
         public string Colonia { get; set; }
         public string Calle { get; set; }
         public string CP { get; set; }
-        public string Estado { get; set; }
-        public string Municipio { get; set; }
         public string resumen { get; set; }
         ICollection<Formacion> Formaciones { get; set; }
         ICollection<HistorialLaboral> HistorialLaborals { get; set; }

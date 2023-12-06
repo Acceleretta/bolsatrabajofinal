@@ -230,15 +230,15 @@
       "mscorlib.dll": "sha256-ZQiPq7CHB7vwsbgiGeI63xqAYmfnZVwKnCDxwIIfh68=",
       "netstandard.dll": "sha256-OUZMjYvE6WNC75Ypitp3ukl0+FlDbSW+OYEIsU7XlgQ=",
       "System.Private.CoreLib.dll": "sha256-uJANsJB4HA9iyaKf1ryCSbtypfL2uQZWxXKIn0Fz5+c=",
-      "BolsaTrabajoSMA.Shared.dll": "sha256-sBBrun7TfhmaFzoG3c2PMIhIU6DJEWXnNwsW2qjLFWA=",
-      "BolsaTrabajoSMA.Client.dll": "sha256-XfNL8GNa35BaCviRzjLZgq9jtb9vLJS40xM\/woRSV4Q="
+      "BolsaTrabajoSMA.Shared.dll": "sha256-7ahMOkb\/y46zz5aLZme7vPfa25Zte9qrOfJo4TOWvls=",
+      "BolsaTrabajoSMA.Client.dll": "sha256-zgp+tidKvL8sj1uf17PDpOFro7JjUaswehTLRseSSWg="
     },
     "extensions": null,
     "lazyAssembly": null,
     "libraryInitializers": null,
     "pdb": {
-      "BolsaTrabajoSMA.Shared.pdb": "sha256-k5UhGZTf6v5B3GfUNx\/9ps92OHmK3IKERMfTu7X89DM=",
-      "BolsaTrabajoSMA.Client.pdb": "sha256-xgt7gJmGU7bvcvby7wMRGjnn7Mt3TvaPZYBp\/1fSwzc="
+      "BolsaTrabajoSMA.Shared.pdb": "sha256-DDY+fSJfqxEA+9Eqpsj0FltmBUWSLQ09Iygosqsenwk=",
+      "BolsaTrabajoSMA.Client.pdb": "sha256-S89uWqbwYYaD7i7hPCXb3NiH\/ZH\/X7PQLJDhZyUSJPU="
     },
     "runtime": {
       "dotnet.6.0.21.7ro98rtl09.js": "sha256-0OV6gibFzyVtG7NXEj8a6vG3u8Cbzv4l9kkEathZjQ8=",

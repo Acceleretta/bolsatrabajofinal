@@ -58,13 +58,13 @@
               <div class="frame-wrapper">
                 <div class="row">
                   <div class="col">
-                     <input type="text" name="nombre" class="form-control text-wrapper-17" placeholder="Nombre">
+                     <input type="text" @bind-value="empleado.Nombre" class="form-control text-wrapper-17" placeholder="Nombre">
                   </div>
                   <div class="col">
-                    <input type="text" name="ap_paterno" class="form-control text-wrapper-17" placeholder="Ap.Paterno">
+                    <input type="text" @bind-value="empleado.Ap_Paterno" class="form-control text-wrapper-17" placeholder="Ap.Paterno">
                   </div>
                   <div class="col">
-                   <input type="text" name="ap_materno" class="form-control text-wrapper-17" placeholder="Ap.Materno">
+                   <input type="text" @bind-value="empleado.Ap_Materno" class="form-control text-wrapper-17" placeholder="Ap.Materno">
                   </div>
                 </div>
                 <div class="frame-6">
@@ -74,7 +74,7 @@
                     <div class="frame-7">
                         <span class="fa-solid fa-flag" style="color: #0c1a31;"></span>
     
-                        <select class="form-select" aria-label="Default select example" name="pais" title="País">
+                        <select @bind="empleado.Pais" class="form-select" aria-label="Default select example">
                             <option>País</option>
                             <option data-thumbnail="g/mx.svg">México</option>
                             <option data-thumbnail="images/es.svg">España</option>
@@ -84,7 +84,7 @@
                     <div class="frame-8">
                         <i class="fa-solid fa-cake-candles" style="color: #162032;"></i>
                         <div class="mb-3">                               
-                          <input type="date" name="fecha_nacimiento" class="form-control "/> 
+                          <input type="date" @bind-value="empleado.FechaNacimiento" class="form-control "/> 
                         </div>
                     </div>
                   </div>
@@ -93,17 +93,17 @@
                     <div class="row">
                       <div class="col">
                         <div class="mb-3">                               
-                          <input type="text" class="form-control" name="colonia" id="exampleFormControlInput1" placeholder="Calle">
+                          <input type="text" class="form-control" @bind-value="empleado.Calle" id="exampleFormControlInput1" placeholder="Calle">
                         </div>
                       </div>
                       <div class="col">
                         <div class="mb-3">                               
-                          <input type="text" class="form-control" name="colonia" id="exampleFormControlInput1" placeholder="Colonia">
+                          <input type="text" class="form-control" @bind-value="empleado.Colonia" id="exampleFormControlInput1" placeholder="Colonia">
                         </div>
                       </div>
                       <div class="col">
                         <div class="mb-3">                               
-                          <input type="text" class="form-control" name="cp" id="exampleFormControlInput1" placeholder="C.P.">
+                          <input type="text" class="form-control" @bind-value="empleado.CP" id="exampleFormControlInput1" placeholder="C.P.">
                         </div>
                       </div>
                     </div>
@@ -112,13 +112,13 @@
                   <div class="frame-11">
                     <i class="fa-solid fa-phone"></i>
                     <div class="mb-3">                               
-                        <input type="phone " name="num_telefono" class="form-control" id="exampleFormControlInput1" placeholder="Telefono">
+                        <input type="phone " @bind-value="empleado.NumTelefono" class="form-control" id="exampleFormControlInput1" placeholder="Telefono">
                     </div>  
                   </div>
                   <div class="frame-12">
                     <i class="fa-solid fa-at"></i>  
                     <div class="mb-3">                               
-                        <input type="email" name="correo" class="form-control" id="exampleFormControlInput1" placeholder="name@example.com">
+                        <input type="email" @bind-value="empleado.Correo" class="form-control" id="exampleFormControlInput1" placeholder="name@example.com">
                     </div>    
                   </div>
                 </div>
@@ -133,7 +133,7 @@
                 <div class="row">
                   <div class="col">
                     <div class="form-floating">
-                      <textarea class="form-control" name="resumen" placeholder="Leave a comment here" id="floatingTextarea"></textarea>
+                      <textarea class="form-control" @bind="empleado.resumen" placeholder="Leave a comment here" id="floatingTextarea"></textarea>
                       <label for="floatingTextarea">Descripción</label>
                     </div>
                   </div>
@@ -237,6 +237,9 @@
                     <div class="d-grid gap-2 col-6 mx-auto">
                         <button type="button" @onclick="Ordenar" class="btn btn-primary btn-lg" disabled="@ordenando">¡Enviar!</button>
                     </div>
+                    <div class="d-grid gap-2 col-6 mx-auto">
+                        <button type="button" @onclick="GuardarEmpleado" class="btn btn-primary btn-lg" >GUARDARRR</button>
+                    </div>
               </div>
               </div>
               </div>
@@ -282,18 +285,11 @@
 }
 
 @code {
-    
     private Empleado empleado = new Empleado();
-   
-
 
     private async Task GuardarEmpleado()
     {
-        var nuevoEmpleado = new { Nombre, ApellidoPaterno, ApellidoMaterno };
-
-        var response = await client.PostAsJsonAsync("api/empleados", nuevoEmpleado);
-
+        var response = await client.PostAsJsonAsync("api/empleados", empleado);
     }
-}
-}
+
 }

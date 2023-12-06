@@ -2105,7 +2105,7 @@
       "url": "_framework\/System.Private.CoreLib.dll"
     },
     {
-      "hash": "sha256-0OV6gibFzyVtG7NXEj8a6vG3u8Cbzv4l9kkEathZjQ8=",
+      "hash": "sha256-VYgQxKoDfYxZIW\/RxoBd8zG0KAGuOmFT3zbefEj1cCc=",
       "url": "_framework\/dotnet.6.0.21.7ro98rtl09.js"
     },
     {
@@ -2133,19 +2133,19 @@
       "url": "_framework\/icudt_no_CJK.dat"
     },
     {
-      "hash": "sha256-W+B4EWudiTe83GK7yLbigulRmjTixy7fPCzG2mf7Lxk=",
+      "hash": "sha256-7ahMOkb\/y46zz5aLZme7vPfa25Zte9qrOfJo4TOWvls=",
       "url": "_framework\/BolsaTrabajoSMA.Shared.dll"
     },
     {
-      "hash": "sha256-deHawYFlGVr0v7nKC\/Ep7zz7OPem1RF70XtFDvuljz0=",
+      "hash": "sha256-DDY+fSJfqxEA+9Eqpsj0FltmBUWSLQ09Iygosqsenwk=",
       "url": "_framework\/BolsaTrabajoSMA.Shared.pdb"
     },
     {
-      "hash": "sha256-4Ryp+f26hz7rYfTj9g2d17TUfdIlScyj6\/bN4t+ZeLc=",
+      "hash": "sha256-zgp+tidKvL8sj1uf17PDpOFro7JjUaswehTLRseSSWg=",
       "url": "_framework\/BolsaTrabajoSMA.Client.dll"
     },
     {
-      "hash": "sha256-1EinT6WnR2uAmzPcqYFm8yk5SvzHlETUOFchGXGuCTU=",
+      "hash": "sha256-S89uWqbwYYaD7i7hPCXb3NiH\/ZH\/X7PQLJDhZyUSJPU=",
       "url": "_framework\/BolsaTrabajoSMA.Client.pdb"
     },
     {
@@ -2153,9 +2153,9 @@
       "url": "_framework\/blazor.webassembly.js"
     },
     {
-      "hash": "sha256-mCByofujvByRo8eMQGPG9GYegLIKbxyOuuL51PUYrz4=",
+      "hash": "sha256-OxYNmc\/0nBTO4udpVeiZAjmuflz\/TUBp0h9OhOp9yrM=",
       "url": "_framework\/blazor.boot.json"
     }
   ],
-  "version": "sPfI7siv"
+  "version": "KZivSCmf"
 };
